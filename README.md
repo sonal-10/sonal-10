@@ -23,7 +23,6 @@
 - 💼 I'm currently working on: **💻 Serverless Architecture with Node.js**
 - 🌱 I'm currently learning: **📚 Backend as a Service**
 - 💬 Ask me about: **💡 JavaScript, Node.js, Protocols, Networking in Cloud.**
-- ⚡ Fun fact: ** **
 - 📂 Portfolio: **<a href="sonalmonis.vercel.app" target="_blank">sonalmonis.vercel.app</a>**
 
  **<h3 align="left">Skills</h3>**
